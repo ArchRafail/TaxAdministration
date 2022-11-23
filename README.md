@@ -33,7 +33,7 @@ Program operating conditions.</br>
 </br>
 Test of program.</br>
 1. Input incorrect point of menu path. Example, type a.</br>
-Program will show you an error. Input mismatch exception. You have to enter number with integer type.
+Program will show you an error. Input mismatch exception. You have to enter number with integer type.</br>
 2. Input incorrect point of menu path. Example, type 9.</br>
 The application will provide you enter your choice again. Maximum points of menu is 8.</br>
 3. Input correct point of menu. For example, type 2.</br>
