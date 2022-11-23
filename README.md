@@ -16,7 +16,7 @@ To realize:</br>
 5. Adding a new person with their information.</br>
 6. Adding new fines for an existing record.</br>
 7. Deleting the fine.</br>
-5. Changing an information about person and their fines.</br>
+8. Changing an information about person and their fines.</br>
 </br>
 </br>
 Program operating conditions.</br>
